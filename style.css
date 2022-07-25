@@ -66,6 +66,9 @@ p {
   text-align: center;
   display: block;
 }
+.about-header {
+  margin-top: 50px;
+}
 
 .about-paragraphs {
   margin: 30px 0;
